@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #6b54d4;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #e9e2e2;
+    padding: 10px;
+
+}
+
+.cuenta {
+    background-color: #b9b6db;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.cuenta h2 {
+    margin-top: 0;
+    color: #ffffff;
+}
+
+.cuenta p {
+    margin-bottom: 0;
+    color: #666;
+}
